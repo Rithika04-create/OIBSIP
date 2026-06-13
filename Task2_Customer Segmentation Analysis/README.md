@@ -9,10 +9,10 @@
 
 ## 📌 Project Overview
 
-This project segments **mall customers** into meaningful groups based on their:
-- **Age**
-- **Annual Income (k$)**
-- **Spending Score (1-100)**
+This project segments **iFood customers** into meaningful groups based on their:
+- **Demographics**
+- **Purchase behavior**
+- **Spending patterns**
 
 **Goal:** Help businesses personalize marketing strategies, improve customer experience, and maximize revenue.
 
@@ -124,26 +124,11 @@ Multi-dimensional profile comparison across all segments
 
 ---
 
-## 🎛️ Executive Dashboard Preview
-
-My interactive dashboard includes:
-
-- ✅ **Real-time segment filtering**
-- ✅ **KPI cards** (Total customers, Avg Income, Avg Spending)
-- ✅ **Dynamic charts** that update with segment selection
-- ✅ **Download insights** as PDF
-
-![Dashboard Demo](images/executive_dashboard.png)
-
-> 💡 *Dashboard built using Python + Plotly Dash / Tableau*
-
----
-
 ## 💡 Key Insights from Visualizations
 
 | Visualization | Key Finding |
 |---------------|-------------|
-| Income vs Spending | High-income + Low-spend = *biggest opportunity* |
+| Income vs Spending | High-income + Low-spend = **biggest opportunity** |
 | Radar Chart | Cluster 2 dominates in income & spending both |
 | Heatmap | Age doesn't vary much; income & spending drive segmentation |
 | 3D Map | Clear separation between 5 distinct customer groups |
@@ -165,12 +150,27 @@ My interactive dashboard includes:
 
 ---
 
+## 📁 Files Description
+
+| File | Description |
+|------|-------------|
+| `Customer_Segmentation.ipynb` | Complete analysis with code & explanations |
+| `ifood_df.csv` | Raw iFood customer dataset (input) |
+| `Customer_Segments_iFood.csv` | Cleaned dataset with cluster labels (output) |
+| `requirements.txt` | Python package dependencies |
+| `images/` | All 9 visualizations |
+| `README.md` | This file |
+
+**Data Flow:** `ifood_df.csv` → Jupyter Notebook → `Customer_Segments_iFood.csv`
+
+---
+
 ## 🚀 How to Run This Project
 
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/Rithika04-create/OIBSIP.git
-cd Task2_Customer_Segmentation_Analysis
+cd "Task2_Customer Segmentation Analysis"
 ```
 
 2. Install dependencies
@@ -184,17 +184,6 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook Customer_Segmentation.ipynb
 ```
-
----
-
-📁 Files Description
-
-File Description
-Customer_Segmentation.ipynb Complete analysis with code & explanations
-Mall_Customers.csv Dataset (200 customers, 5 features)
-requirements.txt Python package dependencies
-images/ All 7 visualizations
-README.md This file
 
 ---
 
@@ -215,6 +204,8 @@ Environment Jupyter Notebook
 · ✅ Silhouette Score: 0.45 (good cluster separation)
 · ✅ Inertia (WCSS): Converged at K=5
 · ✅ Interactive 3D plot generated using Plotly
+· ✅ Raw Dataset: ifood_df.csv
+· ✅ Cleaned Output: Customer_Segments_iFood.csv
 
 ---
 
@@ -243,6 +234,7 @@ Environment Jupyter Notebook
 - 💬 Open to feedback and suggestions
 - 🤝 Looking for opportunities in Data Analytics & ML
 - 📧 Reach me at: rithikasanthanam0406@gmail.com
+
 ---
 
 ⭐ Show Your Support
@@ -253,3 +245,5 @@ If you found this project helpful, please star ⭐ this repository!
 
 Project completed as part of Oasis Infobyte Data Analytics Internship
 June 2026
+
+```
