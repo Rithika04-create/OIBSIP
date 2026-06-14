@@ -1,4 +1,4 @@
-# 🧹 Task 3: Data Cleaning – Airbnb Dataset  
+># 🧹 Task 3: Data Cleaning – Airbnb Dataset  
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Cleaning-orange)
@@ -103,16 +103,56 @@ This cleaned dataset can now be used for:
 | Price Outliers | 847 removed | Clean distribution |  
 | Dataset Quality | Poor | Production-ready |  
 
+---
 
+## 📊 Dashboard Preview
 
+### 🏠 Neighbourhood Analysis
+- **Top revenue zones identified**
+- 🔥 **3 neighbourhoods drive 60%** of high-value listings
+
+### 🎛️ Interactive Dashboard (Plotly HTML)
+> 🔗 **[Open Interactive Dashboard](visualizations/cleaning_dashboard.html)**
+
+The HTML dashboard allows you to:
+- ✅ Hover over data points for exact values
+- ✅ Filter by neighbourhood & room type
+- ✅ Zoom into specific price ranges
+- ✅ Export filtered views
 
 ---
+
+### 🖼️ Preview Images
+
+<img width="856" height="523" alt="image" src="https://github.com/user-attachments/assets/cf63872b-bc19-4849-80c5-026483cc14c9" />
+
+*Figure 1: Missing values heatmap showing data quality issues before cleaning*
+
+<img width="846" height="325" alt="image" src="https://github.com/user-attachments/assets/07a7d9ba-34a0-440b-b5f8-d4b4721a964c" />
+
+*Figure 2: Boxplot showing price outliers removed using IQR method*
+
+<img width="1235" height="395" alt="image" src="https://github.com/user-attachments/assets/455e81b0-2008-45e7-821a-60dfe958ffe4" />
+
+*Figure 3: Price distribution before vs after outlier removal*
+
+---
+
+### 📸 Screenshot Preview
+
+<img width="385" height="425" alt="Executive Data Cleaning Report" src="https://github.com/user-attachments/assets/58c44540-38fa-4fe8-b43d-f1ebbb9bd698" />
+
+*Figure 4: Final cleaned data output preview*
+
+---
+
+> 💡 **Note:** If images don't load, please check the `visualizations/` and `screenshots/` folders in this repository.
 
 ## 🚀 How to Run
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/your-username/OIBSIP.git
+git clone https://github.com/Rithika04-create/OIBSIP.git
 
 # 2. Navigate to Task 3 folder
 cd OIBSIP/Task3_Cleaning_Data
