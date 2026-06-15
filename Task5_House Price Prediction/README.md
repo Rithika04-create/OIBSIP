@@ -12,7 +12,7 @@
 This project was completed as **Task 5** of my **Data Analytics Internship at Oasis Infobyte**.  
 The goal: Predict house prices based on features like area, bedrooms, bathrooms, parking, and categorical variables.
 
-📁 Dataset
+## 📁 Dataset
 
 - Dataset Name: "Housing.csv"
 - Source: Housing Price Dataset
@@ -88,7 +88,29 @@ OIBSIP-Task5-House-Price-Prediction/
 
 ## 📸 Screenshots
 
-> *(Add 2-3 screenshots here of your dashboard and 3D plot)*
+Dashboard
+<img width="1199" height="219" alt="image" src="https://github.com/user-attachments/assets/f098585e-7d7b-455b-a00a-d25e545460f4" />
+
+House Price Prediction
+<img width="1193" height="399" alt="image" src="https://github.com/user-attachments/assets/feac6ae6-b8ef-4041-9b72-383a2e67c189" />
+
+Area vs house price
+<img width="1196" height="395" alt="image" src="https://github.com/user-attachments/assets/6903dbb8-5b7f-48f8-9db5-279b0c89822f" />
+
+Animation
+<img width="1193" height="405" alt="image" src="https://github.com/user-attachments/assets/6a9944a8-3d63-4dad-a9da-29f80e4eb7bb" />
+
+3D house price intelligence
+<img width="1163" height="384" alt="image" src="https://github.com/user-attachments/assets/6c90deed-e840-4919-8e10-8c19f81651ed" />
+
+Executive real estate dashboard
+<img width="1222" height="492" alt="image" src="https://github.com/user-attachments/assets/d018c574-bac4-468f-a216-8747c6341ebc" />
+
+3D Regression surface
+<img width="1217" height="346" alt="image" src="https://github.com/user-attachments/assets/ca92b86e-2f1c-49ec-8e4e-b7a5ecf43806" />
+
+Model insights summary
+<img width="1240" height="186" alt="image" src="https://github.com/user-attachments/assets/a9fd4452-425f-46dd-9261-8a3a6ffdbd9f" />
 
 ## 🙏 Acknowledgments
 
@@ -96,9 +118,11 @@ Thanks to Oasis Infobyte for providing hands-on exposure to real-world data anal
 
 ## 📧 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/https://www.linkedin.com/in/rithika-s-318694339?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/rithika-s-318694339?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/https://github.com/Rithika04-create)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Rithika04-create)
+
+![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)mailto:rithikasanthanam0406@gmail.com
 
 ---
 ⭐ **Star this repo if you found it useful!**
