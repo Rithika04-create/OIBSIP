@@ -8,6 +8,7 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## 📌 Project Overview
+
 This project was completed as **Task 5** of my **Data Analytics Internship at Oasis Infobyte**.  
 The goal: Predict house prices based on features like area, bedrooms, bathrooms, parking, and categorical variables.
 
@@ -20,9 +21,11 @@ The goal: Predict house prices based on features like area, bedrooms, bathrooms,
 - Target Variable: House Price
 
 ## 🎯 Live Demo
+
 > ✨ **Open `house_price_dashboard.html` in any browser** for an interactive, clickable dashboard experience!
 
 ## 📊 Key Features
+
 - ✅ Data cleaning & encoding (binary + categorical)
 - ✅ Exploratory Data Analysis (EDA) with stunning visuals
 - ✅ Feature scaling & train-test split (80-20)
@@ -37,6 +40,7 @@ The goal: Predict house prices based on features like area, bedrooms, bathrooms,
   - 📉 Residual Q-Q Plot & KDE
 
 ## 📈 Results
+
 | Metric | Value |
 |--------|-------|
 | **R² Score** | 0.6524 |
@@ -45,6 +49,7 @@ The goal: Predict house prices based on features like area, bedrooms, bathrooms,
 | **Top Feature** | Area (sq. ft.) |
 
 ## 💡 Business Insights
+
 > 💎 *"Area is the strongest predictor of house price. Adding air conditioning and guest rooms significantly increases property value."*
 
 ## 🛠️ Tech Stack
@@ -74,6 +79,7 @@ OIBSIP-Task5-House-Price-Prediction/
 ```
 
 ## 🚀 How to Run
+
 1. Clone this repository
 2. Install dependencies: `pip install -r requirements.txt`
 3. Open `House_Price_Prediction.ipynb` in Jupyter Notebook
@@ -81,12 +87,15 @@ OIBSIP-Task5-House-Price-Prediction/
 5. Or simply open `house_price_dashboard.html` in any browser
 
 ## 📸 Screenshots
+
 > *(Add 2-3 screenshots here of your dashboard and 3D plot)*
 
 ## 🙏 Acknowledgments
+
 Thanks to Oasis Infobyte for providing hands-on exposure to real-world data analytics workflows, machine learning pipelines, and interactive dashboard development.
 
 ## 📧 Connect With Me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/https://www.linkedin.com/in/rithika-s-318694339?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/https://github.com/Rithika04-create)
