@@ -1,6 +1,6 @@
-![Stars](https://img.shields.io/github/stars/yourusername/OasisInfobyte-Task4-SentimentAnalysis?style=social)
-![Forks](https://img.shields.io/github/forks/yourusername/OasisInfobyte-Task4-SentimentAnalysis?style=social)
-![Issues](https://img.shields.io/github/issues/yourusername/OasisInfobyte-Task4-SentimentAnalysis)
+![Stars](https://img.shields.io/github/stars/Rithika04-create/OasisInfobyte-Task4-SentimentAnalysis?style=social)
+![Forks](https://img.shields.io/github/forks/Rithika04-create/OasisInfobyte-Task4-SentimentAnalysis?style=social)
+![Issues](https://img.shields.io/github/issues/Rithika04-create/OasisInfobyte-Task4-SentimentAnalysis)
 
 # 🚀 Sentiment Analysis 
 
@@ -101,24 +101,44 @@ python sentiment_analysis.py
 
 ---
 
-📈 Sample Visualizations
+## 🎥 Live Demo
 
-    Dashboard                      Word Clouds
-images/dashboard.png           images/wordclouds.png
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Q0NXh_SanSi8I3CbmAS-IYaKSqdUqgEZ#scrollTo=Ii8_jR1C61eN)
 
-    Chord Diagram                 Confusion Matrix
-images/chord_diagram.png      images/confusion_matrix.png
+Click the badge above to run the entire project in your browser – no installation required! 🚀
 
 ---
 
-📊 Model Performance
+## 📈 Sample Visualizations
 
-Model Accuracy 95% CI
-Logistic Regression ~85% ±2%
-Naive Bayes ~83% ±2%
-Linear SVM ~88% ±2%
+| Neon KPI Dashboard | Heart & Skull Word Clouds |
+|:------------------:|:-------------------------:|
+| ![KPI Dashboard]<img width="1201" height="377" alt="image" src="https://github.com/user-attachments/assets/fe78ced4-dddb-477c-a831-4a81171dc001" />
+ | ![Word Clouds](images/wordclouds.png) |
 
-🏆 Best Model: Linear SVM
+| Chord Diagram | Confusion Matrix |
+|:-------------:|:----------------:|
+| ![Chord Diagram](images/chord_diagram.png) | ![Confusion Matrix](images/confusion_matrix.png) |
+
+| Sunburst Chart | Treemap |
+|:--------------:|:-------:|
+| ![Sunburst](images/sunburst.png) | ![Treemap](images/treemap.png) |
+
+| Network Graph | Sentiment Trend |
+|:-------------:|:---------------:|
+| ![Network Graph](images/network_graph.png) | ![Sentiment Trend](images/sentiment_trend.png) |
+
+---
+
+## 📊 Model Performance
+
+| Model | Accuracy | 95% CI |
+|-------|----------|--------|
+| Logistic Regression | 85.2% | ±2.1% |
+| Naive Bayes | 82.7% | ±1.9% |
+| **Linear SVM** | **88.3%** | **±1.8%** |
+
+> 🏆 **Best Model:** Linear SVM
 
 ---
 
@@ -158,6 +178,8 @@ This makes recruiters instantly understand your NLP pipeline.
 - **Purpose:** Sentiment classification using NLP and Machine Learning
 ```
 
+---
+
 📁 Project Structure
 
 ```
@@ -188,11 +210,13 @@ This project demonstrates:
 
 ---
 
-🔗 Connect With Me
+## 🔗 Connect With Me
 
-https://img.shields.io/badge/LinkedIn-Connect-blue
-https://img.shields.io/badge/GitHub-Follow-black
-https://img.shields.io/badge/Email-Contact-red
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)   https://www.linkedin.com/in/rithika-s-318694339?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)   https://github.com/Rithika04-create    
+
+![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)      rithikasanthanam0406@gmail.com   
 
 ---
 
