@@ -69,7 +69,7 @@ This project performs **sentiment analysis on 160K+ tweets** using Natural Langu
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/OasisInfobyte-Task4-SentimentAnalysis.git
+git clone https://github.com/Rithika04-create/OasisInfobyte-Task4-SentimentAnalysis.git
 cd OasisInfobyte-Task4-SentimentAnalysis
 ```
 
@@ -113,20 +113,19 @@ Click the badge above to run the entire project in your browser – no installat
 
 | Neon KPI Dashboard | Heart & Skull Word Clouds |
 |:------------------:|:-------------------------:|
-| ![KPI Dashboard]<img width="1201" height="377" alt="image" src="https://github.com/user-attachments/assets/fe78ced4-dddb-477c-a831-4a81171dc001" />
- | ![Word Clouds](images/wordclouds.png) |
+|<img width="1201" height="377" alt="image" src="https://github.com/user-attachments/assets/fe78ced4-dddb-477c-a831-4a81171dc001" /> | <img width="1227" height="479" alt="image" src="https://github.com/user-attachments/assets/8f6e707a-c613-4ce2-a507-5e3274ec698e" /> |
 
 | Chord Diagram | Confusion Matrix |
 |:-------------:|:----------------:|
-| ![Chord Diagram](images/chord_diagram.png) | ![Confusion Matrix](images/confusion_matrix.png) |
+| <img width="1207" height="445" alt="image" src="https://github.com/user-attachments/assets/b61b551b-9f53-484b-afe5-4e0582bb352b" /> | <img width="1183" height="398" alt="image" src="https://github.com/user-attachments/assets/0ac03a07-7f90-4582-8b78-e040585f09a9" /> |
 
 | Sunburst Chart | Treemap |
 |:--------------:|:-------:|
-| ![Sunburst](images/sunburst.png) | ![Treemap](images/treemap.png) |
+| <img width="1143" height="400" alt="image" src="https://github.com/user-attachments/assets/01252bc3-9a59-4eb0-a37d-d3fe77613ebe" /> | <img width="1185" height="406" alt="image" src="https://github.com/user-attachments/assets/336279dc-88f8-4d58-aa47-d4a1089042d8" /> |
 
 | Network Graph | Sentiment Trend |
 |:-------------:|:---------------:|
-| ![Network Graph](images/network_graph.png) | ![Sentiment Trend](images/sentiment_trend.png) |
+|<img width="1188" height="496" alt="image" src="https://github.com/user-attachments/assets/9f381dec-0379-48a6-91a0-cdd760e2444c" /> | <img width="1200" height="365" alt="image" src="https://github.com/user-attachments/assets/65e0e702-b73f-4f1a-9fed-dfcba05b2fbc" /> |
 
 ---
 
@@ -166,7 +165,7 @@ This makes recruiters instantly understand your NLP pipeline.
 
 ---
 
-# ✅ Add Dataset Section
+# ✅ Dataset Section
 
 ```markdown id="5ijh8f"
 ## 📁 Dataset
@@ -232,6 +231,8 @@ MIT License – feel free to use, learn, and improve!
 
 ---
 
-⭐ Star this repo if you found it useful!
+## ⭐ If You Like This Project
+
+Give this repository a star and feel free to fork it for learning purposes.
 
 
