@@ -1,0 +1,25 @@
+# ============================================
+# Oasis Infobyte - Task 4: Sentiment Analysis
+# Recruiter WOW Edition
+# ============================================
+
+# Data Processing
+pandas>=1.3.0
+numpy>=1.21.0
+
+# Machine Learning
+scikit-learn>=1.0.0
+
+# Natural Language Processing
+nltk>=3.7
+
+# Interactive Visualizations
+plotly>=5.10.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+wordcloud>=1.8.0
+networkx>=2.8
+
+# Image Processing (for custom masks)
+pillow>=9.0.0
+
