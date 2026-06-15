@@ -1,1 +1,96 @@
 
+# 🏠 House Price Prediction – Linear Regression
+
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-2.0+-green.svg)](https://pandas.pydata.org/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.2+-orange.svg)](https://scikit-learn.org/)
+[![Plotly](https://img.shields.io/badge/Plotly-5.0+-red.svg)](https://plotly.com/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+## 📌 Project Overview
+This project was completed as **Task 5** of my **Data Analytics Internship at Oasis Infobyte**.  
+The goal: Predict house prices based on features like area, bedrooms, bathrooms, parking, and categorical variables.
+
+📁 Dataset
+
+- Dataset Name: "Housing.csv"
+- Source: Housing Price Dataset
+- Records: 500+ housing entries
+- Features: Area, bedrooms, bathrooms, parking, furnishing status, air conditioning, guest rooms, and more
+- Target Variable: House Price
+
+## 🎯 Live Demo
+> ✨ **Open `house_price_dashboard.html` in any browser** for an interactive, clickable dashboard experience!
+
+## 📊 Key Features
+- ✅ Data cleaning & encoding (binary + categorical)
+- ✅ Exploratory Data Analysis (EDA) with stunning visuals
+- ✅ Feature scaling & train-test split (80-20)
+- ✅ Linear Regression model training
+- ✅ Model evaluation (R², RMSE, MAE)
+- ✅ **Interactive Visualizations** (Plotly):
+  - 🧊 3D Regression Surface
+  - 📈 Parallel Coordinates Plot
+  - 🎥 Animated Scatter Plot
+  - 📋 Executive Dashboard with R² Gauge
+  - 🔥 Clustered Heatmap with Dendrogram
+  - 📉 Residual Q-Q Plot & KDE
+
+## 📈 Results
+| Metric | Value |
+|--------|-------|
+| **R² Score** | 0.6524 |
+| **RMSE** | ₹1,336,000 |
+| **MAE** | ₹947,000 |
+| **Top Feature** | Area (sq. ft.) |
+
+## 💡 Business Insights
+> 💎 *"Area is the strongest predictor of house price. Adding air conditioning and guest rooms significantly increases property value."*
+
+## 🛠️ Tech Stack
+```
+
+Python 3.8+          → Core programming
+Pandas, NumPy        → Data manipulation
+Scikit-learn         → Model training & evaluation
+Plotly, Seaborn      → Interactive visualizations
+Matplotlib           → Static plots
+Jupyter Notebook     → Development environment
+
+```
+
+## 📁 Repository Structure
+```
+
+OIBSIP-Task5-House-Price-Prediction/
+│
+├── House_Price_Prediction.ipynb   # Complete analysis & modeling
+├── house_price_dashboard.html     # Interactive dashboard (OPEN THIS!)
+├── House_Price_Predictions.csv    # Predictions on test set
+├── Housing.csv                    # Original dataset
+├── requirements.txt               # Dependencies
+└── README.md                      # You are here!
+
+```
+
+## 🚀 How to Run
+1. Clone this repository
+2. Install dependencies: `pip install -r requirements.txt`
+3. Open `House_Price_Prediction.ipynb` in Jupyter Notebook
+4. Run all cells sequentially
+5. Or simply open `house_price_dashboard.html` in any browser
+
+## 📸 Screenshots
+> *(Add 2-3 screenshots here of your dashboard and 3D plot)*
+
+## 🙏 Acknowledgments
+Thanks to Oasis Infobyte for providing hands-on exposure to real-world data analytics workflows, machine learning pipelines, and interactive dashboard development.
+
+## 📧 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/https://www.linkedin.com/in/rithika-s-318694339?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/https://github.com/Rithika04-create)
+
+---
+⭐ **Star this repo if you found it useful!**
+
