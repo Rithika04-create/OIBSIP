@@ -150,6 +150,12 @@ Multi-dimensional profile comparison across all segments
 
 ---
 
+## 🎯 Live Demo
+
+🔗 **[Click here to view the interactive dashboard](https://colab.research.google.com/drive/1l5BwAnwsKC-14ZJLowwBNEXgTgjgkLZj)**
+
+---
+
 ## 📁 Files Description
 
 | File | Description |
