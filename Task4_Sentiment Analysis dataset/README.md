@@ -211,11 +211,11 @@ This project demonstrates:
 
 ## 🔗 Connect With Me
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)   https://www.linkedin.com/in/rithika-s-318694339?utm_source=share_via&utm_content=profile&utm_medium=member_android
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rithika-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rithika-s-318694339)
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)   https://github.com/Rithika04-create    
+[![GitHub](https://img.shields.io/badge/GitHub-Rithika04-black?style=for-the-badge&logo=github)](https://github.com/Rithika04-create)
 
-![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)      rithikasanthanam0406@gmail.com   
+[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:rithikasanthanam0406@gmail.com)
 
 ---
 
