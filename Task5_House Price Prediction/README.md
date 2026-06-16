@@ -22,7 +22,7 @@ The goal: Predict house prices based on features like area, bedrooms, bathrooms,
 
 ## 🎯 Live Demo
 
-> ✨ **Open `house_price_dashboard.html` in any browser** for an interactive, clickable dashboard experience!
+🔗 **[Click here to view the interactive dashboard](https://colab.research.google.com/drive/1BpC5GTNNZIX-JV4XQDi7I4wpvUVTdqTp#scrollTo=K5KS6BMPkjed)**
 
 ## 📊 Key Features
 
