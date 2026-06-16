@@ -111,14 +111,9 @@ This cleaned dataset can now be used for:
 - **Top revenue zones identified**
 - 🔥 **3 neighbourhoods drive 60%** of high-value listings
 
-### 🎛️ Interactive Dashboard (Plotly HTML)
-> 🔗 **[Open Interactive Dashboard](visualizations/cleaning_dashboard.html)**
+## 🎯 Live Demo
 
-The HTML dashboard allows you to:
-- ✅ Hover over data points for exact values
-- ✅ Filter by neighbourhood & room type
-- ✅ Zoom into specific price ranges
-- ✅ Export filtered views
+🔗 **[Click here to view the interactive dashboard](https://colab.research.google.com/drive/1K-3b94nBMss9xx8Xs5teKvY5nqngASqR)**
 
 ---
 
@@ -213,7 +208,9 @@ Task3_Cleaning_Data/
 ## 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rithika-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rithika-s-318694339)
+
 [![GitHub](https://img.shields.io/badge/GitHub-Rithika04-black?style=for-the-badge&logo=github)](https://github.com/Rithika04-create)
+
 [![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:rithikasanthanam0406@gmail.com)
 
 ## 📜 License
