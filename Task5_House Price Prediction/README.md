@@ -118,11 +118,11 @@ Thanks to Oasis Infobyte for providing hands-on exposure to real-world data anal
 
 ## 📧 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/rithika-s-318694339?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rithika-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rithika-s-318694339)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Rithika04-create)
+[![GitHub](https://img.shields.io/badge/GitHub-Rithika04-black?style=for-the-badge&logo=github)](https://github.com/Rithika04-create)
 
-![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)mailto:rithikasanthanam0406@gmail.com
+[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:rithikasanthanam0406@gmail.com)
 
 ---
 ⭐ **Star this repo if you found it useful!**
