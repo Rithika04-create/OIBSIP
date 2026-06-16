@@ -1,0 +1,216 @@
+# ============================================
+# Python & Jupyter
+# ============================================
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.pyd
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+!notebooks/*.ipynb
+*.pyc
+*.pyo
+*.pyd
+
+# Python virtual environments
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+pythonenv*
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# ============================================
+# IDE & Editors
+# ============================================
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# PyCharm
+.idea/
+*.iml
+*.iws
+*.ipr
+.idea_modules/
+
+# Jupyter Lab
+.jupyter/
+jupyter_notebook_config.py
+
+# Spyder
+.spyderproject
+.spyproject
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Vim
+*.swp
+*.swo
+*~
+
+# Emacs
+*~
+\#*
+.\#*
+
+# ============================================
+# Operating System
+# ============================================
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+
+# Linux
+*~
+
+# ============================================
+# Data Files (Keep only original/cleaned data)
+# ============================================
+
+# Keep these files (they are tracked)
+!Housing.csv
+!Housing_Cleaned.csv
+
+# Ignore other CSV/Excel files
+*.csv
+*.xlsx
+*.xls
+*.db
+*.sqlite
+*.parquet
+*.feather
+
+# ============================================
+# Outputs (Keep HTML, ignore other generated files)
+# ============================================
+
+# Keep HTML dashboard
+!house_price_dashboard.html
+
+# Ignore other outputs
+*.log
+*.tmp
+*.bak
+*.swp
+*.cache
+*.pid
+
+# Model files (if you save models)
+*.pkl
+*.joblib
+*.model
+*.h5
+*.pb
+
+# ============================================
+# Logs & Temporary Files
+# ============================================
+
+logs/
+*.log
+*.tmp
+*.temp
+*.cache
+*.pid
+
+# ============================================
+# Environment Variables
+# ============================================
+
+.env
+.env.local
+.env.*.local
+.env.production
+.env.development
+
+# ============================================
+# Testing & Coverage
+# ============================================
+
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+*.cover
+*.py,cover
+.hypothesis/
+
+# ============================================
+# Docker
+# ============================================
+
+.dockerignore
+Dockerfile
+docker-compose*.yml
+*.dockerfile
+
+# ============================================
+# Miscellaneous
+# ============================================
+
+# R files (if you use R)
+.Rhistory
+.RData
+.Ruserdata
+
+# LaTeX
+*.aux
+*.log
+*.out
+*.toc
+
+# Backup files
+*.backup
+*.bak
+*.old
+
+# Temporary screenshots
+temp_*.png
+screenshot_*.png
+!screenshots/*.png
+
+# Auto-generated files
+*.autosave
+*.autosave.ipynb
