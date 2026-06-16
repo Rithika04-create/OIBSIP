@@ -126,11 +126,13 @@ jupyter notebook
 
 ---
 
-🎥 Live Demo
+## 🎯 Live Demo
 
-https://www.linkedin.com/posts/rithika-s-318694339_oasisinfobyte-oasisinfobytefamily-internship-activity-7467833444165701632-Yuel?utm_source=share&utm_medium=member_android&rcm=ACoAAFT_DcQBhGYNUgwKh-QXHU6XsfnOPB2YrEI
+🔗 **[Click here to view the interactive dashboard](https://colab.research.google.com/drive/1JOIWZlaGwtH9ZEph-1Ip1voEYvD-CCNI)**
 
 👉 Click here to watch my EDA Walkthrough on LinkedIn
+
+https://www.linkedin.com/posts/rithika-s-318694339_oasisinfobyte-oasisinfobytefamily-internship-activity-7467833444165701632-Yuel?utm_source=share&utm_medium=member_android&rcm=ACoAAFT_DcQBhGYNUgwKh-QXHU6XsfnOPB2YrEI
 
 ---
 
